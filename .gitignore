@@ -38,5 +38,4 @@ Thumbs.db
 # Model artifacts and large generated files
 *.joblib
 *.pkl
-data/
 .claude/
